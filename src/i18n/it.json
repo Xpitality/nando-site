@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": "Nando — Andrej Kristancic, Goriška Brda",
+    "description": "Vini naturali da 5,5 ettari di ponca, dove Collio e Brda condividono un confine e un terroir."
+  },
+  "hero": {
+    "text": "Andrej Kristancic fa vino su 5,5 ettari che stanno in due paesi. Non sempre si accorge quando attraversa il confine.",
+    "location": "Plešivo, Goriška Brda"
+  },
+  "place": {
+    "text": "La linea di confine tra Collio italiano e Brda sloveno attraversa vigneti e strade sterrate. Il suolo è lo stesso su entrambi i versanti: ponca — alternanza di marne e arenarie che si sgretolano tra le dita. L'Adriatico spinge aria calda da sud-ovest, le Alpi Giulie mandano correnti fredde verso il basso. Qui crescono Ribolla Gialla, Malvasia e Friulano."
+  },
+  "method": {
+    "text": "Agricoltura biologica. Fermentazione spontanea. Macerazione sulle bucce — la durata dipende dalla varietà e dall'annata. Nessuna filtrazione aggressiva. Il vino porta nel bicchiere la firma minerale della ponca in cui è cresciuto."
+  },
+  "tags": {
+    "ponca": "Suolo di ponca",
+    "altitude": "100–200m s.l.m.",
+    "organic": "Biologico",
+    "yeasts": "Lieviti indigeni"
+  },
+  "wines": {
+    "title": "Vini"
+  },
+  "contact": {
+    "title": "Visite su appuntamento.",
+    "email": "andrej@nando.wine"
+  },
+  "footer": {
+    "name": "Nando — Andrej Kristancic",
+    "region": "Goriška Brda"
+  }
+}

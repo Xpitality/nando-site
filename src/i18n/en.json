@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": "Nando — Andrej Kristancic, Goriška Brda",
+    "description": "Natural wines from 5.5 hectares of ponca soil, where Collio and Brda share a border and a terroir."
+  },
+  "hero": {
+    "text": "Andrej Kristancic makes wine on 5.5 hectares that sit across two countries. He doesn't always notice when he crosses the border.",
+    "location": "Plešivo, Goriška Brda"
+  },
+  "place": {
+    "text": "The border between Italian Collio and Slovenian Brda runs through vineyards and unpaved roads. The soil on both sides is the same: ponca — layers of marl and sandstone that crumble in your hands. The Adriatic pushes warm air from the south-west, the Julian Alps send cold drafts down. This is where Ribolla Gialla, Malvasia and Friulano grow."
+  },
+  "method": {
+    "text": "Organic farming. Spontaneous fermentation. Maceration on the skins — how long depends on the grape and the year. No aggressive filtration. The wine carries the mineral signature of the ponca it grew in."
+  },
+  "tags": {
+    "ponca": "Ponca soil",
+    "altitude": "100–200m altitude",
+    "organic": "Organic",
+    "yeasts": "Indigenous yeasts"
+  },
+  "wines": {
+    "title": "Wines"
+  },
+  "contact": {
+    "title": "Visits by appointment.",
+    "email": "andrej@nando.wine"
+  },
+  "footer": {
+    "name": "Nando — Andrej Kristancic",
+    "region": "Goriška Brda"
+  }
+}

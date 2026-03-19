@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": "Nando — Andrej Kristancic, Goriška Brda",
+    "description": "Naravna vina s 5,5 hektarjev ponke, kjer si Collio in Brda delita mejo in terroir."
+  },
+  "hero": {
+    "text": "Andrej Kristancic dela vino na 5,5 hektarjih, ki ležijo v dveh državah. Ne opazi vedno, kdaj prečka mejo.",
+    "location": "Plešivo, Goriška Brda"
+  },
+  "place": {
+    "text": "Meja med italijanskim Colliom in slovenskimi Brdi poteka skozi vinograde in makadamske poti. Tla so na obeh straneh enaka: ponka — plasti laporja in peščenjaka, ki se drobijo pod prsti. Jadran potiska topel zrak z jugozahoda, Julijske Alpe pošiljajo hladen veter navzdol. Tu rastejo Rebula, Malvazija in Friulano."
+  },
+  "method": {
+    "text": "Ekološko kmetijstvo. Spontana fermentacija. Maceracija na kožicah — kako dolgo, je odvisno od sorte in letnika. Brez agresivne filtracije. Vino nosi mineralni odtis ponke, v kateri je raslo."
+  },
+  "tags": {
+    "ponca": "Ponka",
+    "altitude": "100–200 m n.v.",
+    "organic": "Ekološko",
+    "yeasts": "Avtohtone kvasovke"
+  },
+  "wines": {
+    "title": "Vina"
+  },
+  "contact": {
+    "title": "Obiski po dogovoru.",
+    "email": "andrej@nando.wine"
+  },
+  "footer": {
+    "name": "Nando — Andrej Kristancic",
+    "region": "Goriška Brda"
+  }
+}
