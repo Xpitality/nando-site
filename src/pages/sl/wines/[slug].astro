@@ -16,16 +16,16 @@ const { wine } = Astro.props;
 ---
 
 <Base title={`${wine.name} ${wine.vintage} — Nando`} description={wine.descriptions[lang]} lang={lang}>
-  <article class="max-w-3xl mx-auto px-5 pt-16 pb-10">
+  <article class="max-w-5xl mx-auto px-5 pt-16 pb-10">
     <a
       href={getLocalizedPath(lang, '/')}
-      class="text-xs text-sand-400 hover:text-sand-600 transition-colors inline-flex items-center gap-1 mb-10"
+      class="text-xs text-gray-400 hover:text-gray-600 transition-colors inline-flex items-center gap-1 mb-10"
     >
       &larr; {t(lang, 'wines.title')}
     </a>
 
     <div class="flex gap-8 items-start flex-col sm:flex-row">
-      <div class="w-32 sm:w-40 flex-shrink-0 aspect-[3/4] bg-sand-100 rounded overflow-hidden">
+      <div class="w-32 sm:w-40 flex-shrink-0 aspect-[3/4] bg-gray-100 rounded overflow-hidden">
         <img
           src={wine.image}
           alt={wine.name}
@@ -35,15 +35,15 @@ const { wine } = Astro.props;
       </div>
 
       <div class="flex-1">
-        <h1 class="font-serif text-2xl text-sand-900">{wine.name}</h1>
-        <p class="text-sm text-sand-400 mt-1">{wine.vintage}{wine.format ? ` — ${wine.format}` : ''}</p>
+        <h1 class="font-serif text-2xl text-gray-900">{wine.name}</h1>
+        <p class="text-sm text-gray-400 mt-1">{wine.vintage}{wine.format ? ` — ${wine.format}` : ''}</p>
 
-        <p class="text-[15px] leading-relaxed text-sand-600 mt-6 max-w-sm">
+        <p class="text-[15px] leading-relaxed text-gray-600 mt-6 max-w-sm">
           {wine.descriptions[lang]}
         </p>
 
         <div class="flex gap-2 mt-6">
-          <span class="text-[11px] text-sand-500 border border-sand-200 rounded px-2.5 py-1">{wine.type}</span>
+          <span class="text-[11px] text-gray-500 border border-gray-200 rounded px-2.5 py-1">{wine.type}</span>
         </div>
       </div>
     </div>

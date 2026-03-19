@@ -26,20 +26,20 @@ const currentPath = Astro.url.pathname.replace(`/${lang}`, '') || '/';
     ))}
   </head>
   <body class="min-h-screen">
-    <header class="sticky top-0 z-50 bg-sand-50/95 backdrop-blur-sm border-b border-sand-200/60">
-      <nav class="max-w-3xl mx-auto px-5 py-4 flex items-center justify-between">
-        <a href={getLocalizedPath(lang, '/')} class="font-serif text-lg tracking-wide text-sand-900 hover:text-sand-700 transition-colors">
+    <header class="sticky top-0 z-50 bg-white/95 backdrop-blur-sm border-b border-gray-200">
+      <nav class="max-w-5xl mx-auto px-5 py-4 flex items-center justify-between">
+        <a href={getLocalizedPath(lang, '/')} class="font-serif text-lg tracking-wide text-gray-900 hover:text-gray-700 transition-colors">
           Nando
         </a>
-        <div class="flex gap-3 text-xs text-sand-400">
+        <div class="flex gap-3 text-xs text-gray-400">
           {Object.keys(languages).map((l) => (
             <a
               href={getLocalizedPath(l as Lang, currentPath)}
               class:list={[
                 'transition-colors',
                 l === lang
-                  ? 'text-sand-700 underline underline-offset-4 decoration-sand-300'
-                  : 'hover:text-sand-600',
+                  ? 'text-gray-700 underline underline-offset-4 decoration-gray-300'
+                  : 'hover:text-gray-600',
               ]}
             >
               {l}
@@ -53,8 +53,8 @@ const currentPath = Astro.url.pathname.replace(`/${lang}`, '') || '/';
       <slot />
     </main>
 
-    <footer class="border-t border-sand-200/60 mt-16">
-      <div class="max-w-3xl mx-auto px-5 py-4 flex justify-between text-[11px] text-sand-400">
+    <footer class="border-t border-gray-200 mt-16">
+      <div class="max-w-5xl mx-auto px-5 py-4 flex justify-between text-[11px] text-gray-400">
         <span>Nando — Andrej Kristancic</span>
         <span>Goriška Brda</span>
       </div>
