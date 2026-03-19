@@ -4,14 +4,14 @@
     "description": "Naravna vina s 5,5 hektarjev ponke, kjer si Collio in Brda delita mejo in terroir."
   },
   "hero": {
-    "text": "Andrej Kristancic dela vino na 5,5 hektarjih, ki ležijo v dveh državah. Ne opazi vedno, kdaj prečka mejo.",
+    "text": "Vino delam na petih in pol hektarjih, ki ležijo v dveh državah. Meja poteka skozi moje vinograde, ampak zemlja tega ne ve.",
     "location": "Plešivo, Goriška Brda"
   },
   "place": {
-    "text": "Meja med italijanskim Colliom in slovenskimi Brdi poteka skozi vinograde in makadamske poti. Tla so na obeh straneh enaka: ponka — plasti laporja in peščenjaka, ki se drobijo pod prsti. Jadran potiska topel zrak z jugozahoda, Julijske Alpe pošiljajo hladen veter navzdol. Tu rastejo Rebula, Malvazija in Friulano."
+    "text": "Moji vinogradi so v Plešivem, kjer se italijanski Collio sreča s slovenskimi Brdi. Šestdeset odstotkov zemlje je na italijanski strani, štirideset na slovenski. Meja je makadamska pot med vrstami — prečkam jo večkrat na dan, ne da bi razmišljal o tem. Tla so povsod enaka: ponka, plasti laporja in peščenjaka, ki se drobijo med prsti. Topel zrak prihaja z Jadrana, hladen veter se spušča z Julijskih Alp. Vmes grozdje počasi dozoreva."
   },
   "method": {
-    "text": "Ekološko kmetijstvo. Spontana fermentacija. Maceracija na kožicah — kako dolgo, je odvisno od sorte in letnika. Brez agresivne filtracije. Vino nosi mineralni odtis ponke, v kateri je raslo."
+    "text": "Kmetujem ekološko in pustim, da fermentacija steče sama — avtohtone kvasovke, nič dodanega. Bela vina maceriram na kožicah; kako dolgo, je odvisno od sorte in letnika. Ne filtriram agresivno. Kar konča v steklenici, je to, kar sta mi dala ponka in sezona. Veliko mi ni treba narediti, če je grozdje pravo."
   },
   "tags": {
     "ponca": "Ponka",
@@ -23,7 +23,7 @@
     "title": "Vina"
   },
   "contact": {
-    "title": "Obiski po dogovoru.",
+    "title": "Če ste v Brdih, se oglasite. Pokličite vnaprej.",
     "email": "andrej@nando.wine"
   },
   "footer": {

@@ -4,14 +4,14 @@
     "description": "Natural wines from 5.5 hectares of ponca soil, where Collio and Brda share a border and a terroir."
   },
   "hero": {
-    "text": "Andrej Kristancic makes wine on 5.5 hectares that sit across two countries. He doesn't always notice when he crosses the border.",
+    "text": "I make wine on five and a half hectares that happen to sit in two countries. The border runs through my vineyards, but the soil doesn't know that.",
     "location": "Plešivo, Goriška Brda"
   },
   "place": {
-    "text": "The border between Italian Collio and Slovenian Brda runs through vineyards and unpaved roads. The soil on both sides is the same: ponca — layers of marl and sandstone that crumble in your hands. The Adriatic pushes warm air from the south-west, the Julian Alps send cold drafts down. This is where Ribolla Gialla, Malvasia and Friulano grow."
+    "text": "My vineyards are in Plešivo, where the Italian Collio meets the Slovenian Brda. Sixty percent of the land is on the Italian side, forty on the Slovenian. The border is an unpaved road between the rows — I cross it several times a day without thinking about it. The soil is the same everywhere here: ponca, layers of marl and sandstone that crumble in your hands. The warm air comes up from the Adriatic, the cold drafts come down from the Julian Alps. In between, the grapes take their time."
   },
   "method": {
-    "text": "Organic farming. Spontaneous fermentation. Maceration on the skins — how long depends on the grape and the year. No aggressive filtration. The wine carries the mineral signature of the ponca it grew in."
+    "text": "I farm organically and let the fermentation start on its own — indigenous yeasts, nothing added. The whites macerate on their skins; how long depends on the variety and the year. I don't filter aggressively. What ends up in the bottle is what the ponca and the season gave me. There's not much I need to do if the grapes are right."
   },
   "tags": {
     "ponca": "Ponca soil",
@@ -23,7 +23,7 @@
     "title": "Wines"
   },
   "contact": {
-    "title": "Visits by appointment.",
+    "title": "If you're passing through Brda, come by. Call ahead.",
     "email": "andrej@nando.wine"
   },
   "footer": {

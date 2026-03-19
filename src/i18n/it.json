@@ -4,14 +4,14 @@
     "description": "Vini naturali da 5,5 ettari di ponca, dove Collio e Brda condividono un confine e un terroir."
   },
   "hero": {
-    "text": "Andrej Kristancic fa vino su 5,5 ettari che stanno in due paesi. Non sempre si accorge quando attraversa il confine.",
+    "text": "Faccio vino su cinque ettari e mezzo che si trovano in due paesi. Il confine attraversa i miei vigneti, ma il suolo non lo sa.",
     "location": "Plešivo, Goriška Brda"
   },
   "place": {
-    "text": "La linea di confine tra Collio italiano e Brda sloveno attraversa vigneti e strade sterrate. Il suolo è lo stesso su entrambi i versanti: ponca — alternanza di marne e arenarie che si sgretolano tra le dita. L'Adriatico spinge aria calda da sud-ovest, le Alpi Giulie mandano correnti fredde verso il basso. Qui crescono Ribolla Gialla, Malvasia e Friulano."
+    "text": "I miei vigneti sono a Plešivo, dove il Collio italiano incontra il Brda sloveno. Il sessanta per cento della terra è sul versante italiano, il quaranta su quello sloveno. Il confine è una strada sterrata tra i filari — lo attraverso più volte al giorno senza pensarci. Il suolo è lo stesso ovunque qui: ponca, strati di marna e arenaria che si sgretolano tra le dita. L'aria calda sale dall'Adriatico, le correnti fredde scendono dalle Alpi Giulie. In mezzo, le uve prendono il loro tempo."
   },
   "method": {
-    "text": "Agricoltura biologica. Fermentazione spontanea. Macerazione sulle bucce — la durata dipende dalla varietà e dall'annata. Nessuna filtrazione aggressiva. Il vino porta nel bicchiere la firma minerale della ponca in cui è cresciuto."
+    "text": "Coltivo in biologico e lascio che la fermentazione parta da sola — lieviti indigeni, niente di aggiunto. I bianchi macerano sulle bucce; quanto a lungo dipende dalla varietà e dall'annata. Non filtro in modo aggressivo. Quello che finisce in bottiglia è quello che mi hanno dato la ponca e la stagione. Non c'è molto che devo fare, se le uve sono giuste."
   },
   "tags": {
     "ponca": "Suolo di ponca",
@@ -23,7 +23,7 @@
     "title": "Vini"
   },
   "contact": {
-    "title": "Visite su appuntamento.",
+    "title": "Se passate per il Brda, venite a trovarmi. Chiamate prima.",
     "email": "andrej@nando.wine"
   },
   "footer": {
