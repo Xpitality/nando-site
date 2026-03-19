@@ -20,6 +20,9 @@ const currentPath = Astro.url.pathname.replace(`/${lang}`, '') || '/';
     <meta name="description" content={description} />
     <title>{title}</title>
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,500;1,8..60,400&family=Inter:wght@400;500&display=swap" rel="stylesheet" />
     <link rel="canonical" href={`https://nando.wine/${lang}${currentPath}`} />
     {Object.keys(languages).map((l) => (
       <link rel="alternate" hreflang={l} href={`https://nando.wine/${l}${currentPath}`} />
@@ -27,9 +30,9 @@ const currentPath = Astro.url.pathname.replace(`/${lang}`, '') || '/';
   </head>
   <body class="min-h-screen">
     <header class="sticky top-0 z-50 bg-white/95 backdrop-blur-sm border-b border-gray-200">
-      <nav class="max-w-5xl mx-auto px-5 py-4 flex items-center justify-between">
-        <a href={getLocalizedPath(lang, '/')} class="font-serif text-lg tracking-wide text-gray-900 hover:text-gray-700 transition-colors">
-          Nando
+      <nav class="max-w-5xl mx-auto px-6 py-4 flex items-center justify-between">
+        <a href={getLocalizedPath(lang, '/')} class="hover:opacity-70 transition-opacity">
+          <img src="/images/logo-nando.jpg" alt="Nando — Goriška Brda" class="h-8 sm:h-10 w-auto" />
         </a>
         <div class="flex gap-3 text-xs text-gray-400">
           {Object.keys(languages).map((l) => (
@@ -54,7 +57,7 @@ const currentPath = Astro.url.pathname.replace(`/${lang}`, '') || '/';
     </main>
 
     <footer class="border-t border-gray-200 mt-16">
-      <div class="max-w-5xl mx-auto px-5 py-4 flex justify-between text-[11px] text-gray-400">
+      <div class="max-w-5xl mx-auto px-6 py-4 flex justify-between text-[11px] text-gray-400">
         <span>Nando — Andrej Kristancic</span>
         <span>Goriška Brda</span>
       </div>
