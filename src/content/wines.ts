@@ -37,18 +37,6 @@ export const wines: Wine[] = [
     },
   },
   {
-    slug: 'jakot-črna-etiketa',
-    name: 'Jakot Črna Etiketa',
-    type: 'Macerato',
-    grape: 'Friulano',
-    image: '/images/wines/jakot-črna-etiketa.jpg',
-    descriptions: {
-      en: 'Friulano with the black label. Jakot is our name for it — Tokaj, as it was known here for centuries. Long maceration pulls out the almond and bitter herb character that this grape hides until you give it time. A serious wine, from the oldest vines I have.',
-      sl: 'Friulano s črno etiketo. Jakot je naše ime za Friulano — Tokaj, kot so mu rekli tukaj že stoletja. Dolga maceracija izvleče mandljev in grenko-zeliščni značaj, ki ga ta sorta skriva, dokler ji ne daš časa. Resno vino, iz najstarejših trt, ki jih imam.',
-      it: 'Il Friulano con l\'etichetta nera. Jakot è il nostro nome per il Friulano — Tokaj, come lo chiamano qui da secoli. La macerazione lunga tira fuori il carattere di mandorla e erbe amare che questo vitigno nasconde finché non gli dai tempo. Un vino serio, dalle viti più vecchie che ho.',
-    },
-  },
-  {
     slug: 'jakot-plava-etiketa',
     name: 'Jakot Plava Etiketa',
     type: 'Bianco',
