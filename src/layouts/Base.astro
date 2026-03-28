@@ -38,6 +38,7 @@ const currentPath = Astro.url.pathname.replace(`/${lang}`, '') || '/';
           {Object.keys(languages).map((l) => (
             <a
               href={getLocalizedPath(l as Lang, currentPath)}
+              onclick={`document.cookie='nando_lang=${l};path=/;max-age=31536000;SameSite=Lax'`}
               class:list={[
                 'transition-colors',
                 l === lang
